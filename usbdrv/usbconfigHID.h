@@ -1,0 +1,1 @@
+/home/maks/hs/v-usb/gpio-usb/firmware/usbconfigHID.h
